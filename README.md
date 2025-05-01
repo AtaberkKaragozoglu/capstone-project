@@ -16,7 +16,7 @@ My senior project at Atılım University: A partially autonomous robot for medic
 - Raspberry Pi streams live footage and performs human detection.  
 - The live feed is accessible via a local web server.
 
-## ⚙ Planned But Not Implemented (Yet)
+##  Planned But Not Implemented (Yet)
 
 - **Obstacle avoidance** using a sound/ultrasonic sensor (to be added in v2)
 - **Remote manual control** in case of delivery issues (future work)
