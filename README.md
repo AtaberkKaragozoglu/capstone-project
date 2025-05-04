@@ -25,7 +25,7 @@ My senior project at Atılım University: A partially autonomous robot for medic
 ##  Folder Structure
 
 - `/code` – Arduino and Raspberry Pi scripts
-- `/docs` – Report, circuit diagrams, and notes
+- `/docs` – Circuit diagrams and notes
 
 ---
 
