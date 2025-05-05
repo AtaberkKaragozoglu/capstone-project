@@ -8,7 +8,7 @@ My senior project at Atılım University: A partially autonomous robot for medic
 - **Directional motor control** via differential DC motor logic (4 motors)
 - **Human detection and live streaming** using Raspberry Pi + Pi Camera
 - **Web interface** to monitor the front view in real-time from a browser
-
+- **Real-time human detection** using Raspberry Pi and OpenCV
 ##  How it Works
 
 - Robot follows a black line using two IR sensors.  
